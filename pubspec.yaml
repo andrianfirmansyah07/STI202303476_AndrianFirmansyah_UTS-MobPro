@@ -1,0 +1,13 @@
+name: my_event_planner
+description: My Event Planner App (Full Fix)
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.0.5
+  path_provider: ^2.1.2
+
+flutter:
+  uses-material-design: true

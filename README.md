@@ -1,1 +1,3 @@
-# STI202303476_AndrianFirmansyah_UTS-MobPro
+# my_event_planner
+
+A new Flutter project.
